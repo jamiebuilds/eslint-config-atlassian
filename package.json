@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-atlassian",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint Config for Atlassian",
   "main": "index.js",
   "repository": "atlassian/eslint-config-atlassian",
