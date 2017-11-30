@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-atlassian",
+  "version": "0.0.0",
+  "description": "ESLint Config for Atlassian",
+  "main": "index.js",
+  "repository": "atlassian/eslint-config-atlassian",
+  "author": "Atlassian Pty Ltd",
+  "license": "Apache-2.0"
+}
